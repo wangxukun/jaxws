@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-appclient" />
+        <module name="helloservice-war" />
+        <module name="hello-webclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello-appclient" target="8" />
+      <module name="hello-webclient" target="8" />
+      <module name="helloservice-war" target="1.8" />
+      <module name="jaxws" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

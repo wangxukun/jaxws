@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="helloservice-war:war">
+    <output-path>$PROJECT_DIR$/helloservice-war/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>helloservice-war</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="helloservice-war-1.0.war">
+      <element id="artifact" artifact-name="helloservice-war:war exploded" />
+    </root>
+  </artifact>
+</component>

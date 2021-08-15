@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello-appclient/hello-appclient.iml" filepath="$PROJECT_DIR$/hello-appclient/hello-appclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-webclient/hello-webclient.iml" filepath="$PROJECT_DIR$/hello-webclient/hello-webclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservice-war/helloservice-war.iml" filepath="$PROJECT_DIR$/helloservice-war/helloservice-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jaxws.iml" filepath="$PROJECT_DIR$/.idea/jaxws.iml" />
+    </modules>
+  </component>
+</project>
